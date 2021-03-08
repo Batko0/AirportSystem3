@@ -16,7 +16,7 @@ public class BoardingPass {
     private String surname;
     private int ticket_id;
     private int seat_id;
-    // fesfsefesf
+
     // some colors
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLUE = "\u001B[34m";
