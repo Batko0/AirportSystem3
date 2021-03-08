@@ -2,7 +2,6 @@ package com.company.repositories;
 
 import com.company.data.interfaces.IDB;
 import com.company.entities.Flights;
-import com.company.entities.User;
 import com.company.repositories.interfaces.IFlightsRepository;
 import java.sql.*;
 import java.util.LinkedList;

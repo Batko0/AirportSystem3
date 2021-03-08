@@ -2,7 +2,6 @@ package com.company.controllers;
 
 import com.company.entities.Flights;
 import com.company.repositories.interfaces.IFlightsRepository;
-import com.company.repositories.interfaces.IUserRepository;
 
 import java.util.List;
 

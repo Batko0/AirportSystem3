@@ -11,7 +11,6 @@ import com.company.repositories.UserRepository;
 import com.company.repositories.interfaces.IBoardingPRepository;
 import com.company.repositories.interfaces.IFlightsRepository;
 import com.company.repositories.interfaces.IUserRepository;
-import java.sql.*;
 
 public class Main {
     public static void main(String[] args) {
